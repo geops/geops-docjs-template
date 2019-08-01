@@ -1,0 +1,7 @@
+<footer>
+  <div id="promo">
+    <a href='<%= config["project-url"] %>' target="_blank">
+      <div id="promo-text">Fork me on GitHub</div>
+    </a>
+  </div>
+</footer>
