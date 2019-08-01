@@ -12,7 +12,6 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "@ecl/ec-preset-website": "2.0.0",
     "anchor-js": "4.1.0",
     "concat-stream": "1.6.0",
     "documentation": "5.3.5",
