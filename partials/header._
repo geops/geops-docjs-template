@@ -2,7 +2,7 @@
   <div class="nav">
       <a id="brand" href="/"><%- config["project-name"] %></a>
       <div class="nav-div">
-      <a href="../index.html" class="nav-bt">Components</a>
+      <a href="/" class="nav-bt">Components</a>
       <a href="#" class="active nav-bt">Layers</a>
       </div>
   </div>
