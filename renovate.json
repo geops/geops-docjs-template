@@ -1,4 +1,5 @@
 {
   "extends": ["config:js-app", "schedule:monthly"],
-  "assignees": ["@edellucien"]
+  "assignees": ["@edellucien"],
+  "enabled": false
 }
