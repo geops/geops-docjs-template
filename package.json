@@ -1,6 +1,6 @@
 {
   "name": "geops-docjs-template",
-  "version": "1.0.3-beta.1",
+  "version": "1.0.5",
   "description": "geOps theme for documentation.js",
   "main": "index.js",
   "license": "MIT",
@@ -9,7 +9,8 @@
     "develop:assets": "webpack -w",
     "develop:theme": "documentation serve --watch **/_types/*.js **/lib/helper.js **/*._ --theme .",
     "develop:server": "reload -d ./dist",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "build": "documentation build"
   },
   "dependencies": {
     "anchor-js": "4.2.2",
@@ -27,6 +28,7 @@
     "autoprefixer": "7.2.5",
     "babel-eslint": "10.0.3",
     "babel-loader": "8.0.6",
+    "browserslist": "^4.17.6",
     "css-loader": "3.4.2",
     "cssnano": "4.1.10",
     "eslint": "6.8.0",
