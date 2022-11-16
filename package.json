@@ -1,6 +1,6 @@
 {
   "name": "geops-docjs-template",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "geOps theme for documentation.js",
   "main": "index.js",
   "license": "MIT",
